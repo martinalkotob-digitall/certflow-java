@@ -13,7 +13,7 @@ This directory is isolated from the existing .NET project.
 ## Run
 
 ```bash
-cd java-certflow
+cd certflow-java
 docker compose up --build
 ```
 
